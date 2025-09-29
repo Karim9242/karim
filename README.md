@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Shopping App
 
 ## Overview
@@ -38,3 +39,6 @@ This is a comprehensive Flutter application simulating a shopping interface with
 ![Shopping Home 2](assets/screenshots/shopping_home_screen2.png)
 ![Shopping Home 2 Arabic](assets/screenshots/shopping_home_screenar2.png)
 ![Shopping Home 3](assets/screenshots/shopping_home_screen3.png)
+=======
+# karim
+>>>>>>> 8518b3d2644b61881ba51ae00a231b5343572ad6
