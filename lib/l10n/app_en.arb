@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appTitle": "Shopping App",
+  "welcome": "Welcome",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "createAccount": "Create Account",
+  "signInToAccount": "Sign In to Account",
+  "accountCreatedSuccessfully": "Account created successfully",
+  "accountSignInSuccessfully": "Account sign-in successfully",
+  "close": "Close",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "itemAddedToCart": "Item added to the cart",
+  "enterFullName": "Please enter your full name",
+  "enterValidEmail": "Please enter a valid email",
+  "passwordTooShort": "Password must be at least 6 characters",
+  "passwordsDoNotMatch": "Passwords do not match"
+}
